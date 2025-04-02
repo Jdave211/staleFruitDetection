@@ -31,18 +31,18 @@ venv.bak/
 .env
 
 # FastAI and model files
-*.pkl
+# *.pkl
 *.pth
 *.pth.tar
 *.pt
-models/
+# models/
 
 # Jupyter Notebook
 .ipynb_checkpoints
 *.ipynb
 
 # Data files
-data/
+# data/
 datasets/
 *.csv
 *.json
